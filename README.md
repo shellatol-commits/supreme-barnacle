@@ -2,7 +2,7 @@
   
   .title {
     
-font-family: Aharoni CLM, Helvetica, sans-serif;
+font-family: Aharoni Bold, Helvetica, sans-serif;
     
   }
   
