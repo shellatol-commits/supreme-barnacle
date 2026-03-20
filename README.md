@@ -1,8 +1,15 @@
 <style>
   
+  @font-face {
+  font-family: 'Aharoni';
+  src: url('fonts/Aharoni Bold.ttf') format('truetype'),
+  font-weight: normal;
+  font-style: normal;
+}
+
   .title {
     
-font-family: Aharoni Bold, Helvetica, sans-serif;
+font-family: Aharoni, Helvetica, sans-serif;
     
   }
   
