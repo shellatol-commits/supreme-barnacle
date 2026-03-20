@@ -28,8 +28,9 @@ color: white;
 </style>
 
 <h1 class=title>
-  Shellatol's App's
+  ShellAtol's App's
 </h1>
 <p class=title>
   Apps I make to improve the technological world.
 </p>
+<h3><a href="https://shellatol-commits.github.io/supreme-barnacle/vault.html">Katia Vault</a></h3>
