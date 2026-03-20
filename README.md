@@ -1,2 +1,8 @@
-# supreme-barnacle
-Official repo of the website where my App's (Created with Python) are made.
+<style>
+  .title {
+font-family: Aharoni, Helvetica, sans-serif;
+  }
+</style>
+<h1 class=title>
+  Shellatol's App's
+</h1>
