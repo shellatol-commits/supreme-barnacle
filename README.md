@@ -1,6 +1,6 @@
 <style>
   .title {
-font-family: Aharoni Bold, Helvetica, sans-serif;
+font-family: Aharoni CLM, Helvetica, sans-serif;
   }
 </style>
 <h1 class=title>
