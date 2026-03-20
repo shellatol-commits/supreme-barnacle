@@ -1,7 +1,7 @@
 <style>
 
   body {                
-  background-image: url('https://drive.google.com/uc?id=1ZAk2mlQk4Om7Fu2_hXkhFTr6cybSUgFW');
+  background-image: url('https://lh3.googleusercontent.com/d/1ZAk2mlQk4Om7Fu2_hXkhFTr6cybSUgFW');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
