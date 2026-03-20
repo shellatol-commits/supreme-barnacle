@@ -2,7 +2,7 @@
 
   body {                
   background-image: url('https://lh3.googleusercontent.com/d/1ZAk2mlQk4Om7Fu2_hXkhFTr6cybSUgFW');
-  background-repeat: no-repeat;
+  background-repeat: repeat;
   background-size: cover;
   background-position: center;
 }
@@ -17,8 +17,12 @@
 
   .title {
     
-font-family: Aharoni, Helvetica, sans-serif;
+font-family: Aharoni, Helvetica, sans-serif; 
     
+  }
+  
+  body {
+color: white; 
   }
   
 </style>
