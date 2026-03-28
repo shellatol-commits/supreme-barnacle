@@ -33,6 +33,10 @@ color: white;
 <p class=title>
   Apps I make to improve the technological world.
 </p>
+<p class=title>
+  <span style="color: yellow"><img src="https://icons.iconarchive.com/icons/paomedia/small-n-flat/48/sign-warning-icon.png">Warning
+  </h4><p class=title><span style="color: yellow">
+  When you run an app I created, if you see a Microsoft Defender SmartScreen popup, please click More info and then Run anyway.</span></p>
 <h3 class=title><a href="https://shellatol-commits.github.io/supreme-barnacle/vault.html">Katia Vault</a>
   <p></p>
 <a href="https://shellatol-commits.github.io/supreme-barnacle/picker.html">Katia Color Picker</a></h3>
