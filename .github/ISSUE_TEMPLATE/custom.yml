@@ -1,0 +1,41 @@
+name: "Review"
+description: "Give us your feedback on a feature or version"
+title: "[REVIEW]: "
+labels: ["feedback", "triage-needed"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for sharing your thoughts! Your feedback helps us shape the future of the project.
+  - type: input
+    id: app-name
+    attributes:
+      label: "Which app/version are you reviewing?"
+      placeholder: "e.g. Katia Color Picker, AI Chatbot"
+    validations:
+      required: true
+  - type: dropdown
+    id: rating
+    attributes:
+      label: "Overall Rating"
+      options:
+        - "⭐⭐⭐⭐⭐ (Excellent)"
+        - "⭐⭐⭐⭐ (Very Good)"
+        - "⭐⭐⭐ (Good / Average)"
+        - "⭐⭐ (Needs Improvement)"
+        - "⭐ (Poor)"
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: "What is your feedback?"
+      description: "Share your experience in detail."
+      placeholder: "I really liked the new UI, but..."
+    validations:
+      required: true
+  - type: textarea
+    id: improvements
+    attributes:
+      label: "Suggested Improvements"
+      description: "What would make this perfect for you?"
