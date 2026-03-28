@@ -13,8 +13,8 @@ body:
       label: "What app are you using?"
       description: "Enter the name or component of the application."
       placeholder: "e.g. AI Chatbot, Automation Bot, Decision Engine"
-    validations:
       required: true
+    validations:
   - type: textarea
     id: what-happened
     attributes:
