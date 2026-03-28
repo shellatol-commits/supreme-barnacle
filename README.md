@@ -37,4 +37,4 @@ color: white;
   <p></p>
 <a href="https://shellatol-commits.github.io/supreme-barnacle/picker.html">Katia Color Picker</a></h3>
 <p></p>
-<a href="https://shellatol-commits.github.io/supreme-barnacle/bundle.html">Katia 15 App Bundle (ZIP)</a></h3>
+<h3><a href="https://shellatol-commits.github.io/supreme-barnacle/bundle.html">Katia 15 App Bundle (ZIP)</a></h3>
