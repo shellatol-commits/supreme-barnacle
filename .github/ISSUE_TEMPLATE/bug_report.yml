@@ -40,7 +40,7 @@ body:
     attributes:
       label: "Version"
       description: "Which version of the software are you using?"
-      placeholder: "e.g. v1.2.3"
+      placeholder: "e.g. Oldest Legacy (v1.0.0)"
   - type: textarea
     id: logs
     attributes:
