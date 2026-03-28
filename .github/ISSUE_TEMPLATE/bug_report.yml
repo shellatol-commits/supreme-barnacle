@@ -40,7 +40,8 @@ body:
     attributes:
       label: "Version"
       description: "Which version of the software are you using?"
-      placeholder: "e.g. Oldest Legacy (v1.0.0)"
+      placeholder: "e.g. Oldest Legacy (v1.0.0), Latest (vInfinity)"
+      required: true
   - type: textarea
     id: logs
     attributes:
@@ -50,9 +51,7 @@ body:
   - type: checkboxes
     id: checks
     attributes:
-      label: "Before submitting"
+      label: "Before submitting/Verification"
       options:
         - label: "I have searched existing issues to ensure this is not a duplicate."
-          required: true
-        - label: "I am using the latest version of the app."
           required: true
