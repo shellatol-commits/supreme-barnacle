@@ -12,7 +12,7 @@ body:
     attributes:
       label: "What app are you using?"
       description: "Enter the name or component of the application."
-      placeholder: "e.g. Mobile App, Web Dashboard, CLI Tool"
+      placeholder: "e.g. Katia Color Picker, AI Chatbot, To-Do List"
     validations:
       required: true
   - type: textarea
