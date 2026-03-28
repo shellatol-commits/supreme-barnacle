@@ -41,6 +41,8 @@ body:
       label: "Version"
       description: "Which version of the software are you using?"
       placeholder: "e.g. v1.2.3"
+    validations:
+      required: true
   - type: textarea
     id: logs
     attributes:
