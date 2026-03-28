@@ -12,7 +12,7 @@ body:
     attributes:
       label: "What app are you using?"
       description: "Enter the name or component of the application."
-      placeholder: "e.g. AI Chatbot, Automation Bot, Decision Engine"
+      placeholder: "e.g. Mobile App, Web Dashboard, CLI Tool"
     validations:
       required: true
   - type: textarea
@@ -20,7 +20,7 @@ body:
     attributes:
       label: "Describe the bug"
       description: "A clear and concise description of what the bug is."
-      placeholder: "Example: The login button does not respond when clicked."
+      placeholder: "Example: The ... button does not respond when clicked."
     validations:
       required: true
   - type: textarea
@@ -40,8 +40,7 @@ body:
     attributes:
       label: "Version"
       description: "Which version of the software are you using?"
-      placeholder: "e.g. Oldest Legacy (v1.0.0), Latest (vInfinity)"
-      required: true
+      placeholder: "e.g. v1.2.3"
   - type: textarea
     id: logs
     attributes:
@@ -54,4 +53,6 @@ body:
       label: "Before submitting/Verification"
       options:
         - label: "I have searched existing issues to ensure this is not a duplicate."
+          required: true
+        - label: "I am using the exact version I said, of the project."
           required: true
