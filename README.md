@@ -35,7 +35,7 @@ color: white;
 </p>
 <a href="https://shellatol-commits.github.io/supreme-barnacle/bookmarklet.html">
 <button>Try out our Bookmarklet!</button>
-</a><p></p>
+</a>
 <h3 class=title><a href="https://shellatol-commits.github.io/supreme-barnacle/vault.html">Katia Vault</a>
   <p></p>
 <a href="https://shellatol-commits.github.io/supreme-barnacle/picker.html">Katia Color Picker</a></h3>
